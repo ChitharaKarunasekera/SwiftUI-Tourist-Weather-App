@@ -14,7 +14,20 @@ SwiftUI Tourist Weather & POIs App is a mobile application that provides real-ti
 <img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/930b609d-b3c9-4f05-a357-1e3b59d5edc6" width="250">
 <img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/dfc87945-334d-4b67-ae95-13c5ad166889" width="250">
 <img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/86eec247-423e-4ea1-aa5a-9a974be88ef0" width="250">
-<img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/09c38f9d-0dae-4512-ae22-b326e94da8ea" width="300">
 <img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/9705904e-43e4-4d60-904c-2cf1dc40e0ab"
-width="300">
+width="250">
 
+## Usage
+1. Launch the app to see the default weather information for London.
+2. Navigate to the Forecast tab to see hourly and daily weather details.
+3. Navigate to the Places tab to see a map with pins for tourist attractions and a list of POIs.
+4. Change the location in the City tab to update weather and POI data for a new place.
+
+## API Integration
++ Weather Data: The app fetches weather data from OpenWeatherMap. You need to register and obtain an API key from [OpenWeatherMap](https://openweathermap.org/api).
++ Points of Interest: Tourist places are loaded from a local JSON file (places.json) included in the project.
+
+# Frameworks and Libraries
++ SwiftUI
++ CoreLocation
++ MapKit
