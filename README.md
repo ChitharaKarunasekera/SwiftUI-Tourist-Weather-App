@@ -11,8 +11,13 @@ SwiftUI Tourist Weather & POIs App is a mobile application that provides real-ti
 
 ## Screenshots
 
+<img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/930b609d-b3c9-4f05-a357-1e3b59d5edc6" width="250">
+<img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/dfc87945-334d-4b67-ae95-13c5ad166889" width="250">
+<img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/86eec247-423e-4ea1-aa5a-9a974be88ef0" width="250">
 <img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/930b609d-b3c9-4f05-a357-1e3b59d5edc6" width="300">
 <img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/dfc87945-334d-4b67-ae95-13c5ad166889" width="300">
 <img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/86eec247-423e-4ea1-aa5a-9a974be88ef0" width="300">
 <img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/09c38f9d-0dae-4512-ae22-b326e94da8ea" width="300">
+<img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/9705904e-43e4-4d60-904c-2cf1dc40e0ab"
+width="300">
 
