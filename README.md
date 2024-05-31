@@ -12,7 +12,7 @@ SwiftUI Tourist Weather & POIs App is a mobile application that provides real-ti
 ## Screenshots
 
 <img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/930b609d-b3c9-4f05-a357-1e3b59d5edc6" width="200" style="margin-right: 20px;">
-<img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/dfc87945-334d-4b67-ae95-13c5ad166889" width="200" style="margin-right: 20px;">
+<img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/dfc87945-334d-4b67-ae95-13c5ad166889" width="200" style="margin-right: 70px;">
 <img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/86eec247-423e-4ea1-aa5a-9a974be88ef0" width="200" style="margin-right: 20px;">
 <img src="https://github.com/ChitharaKarunasekera/SwiftUI-Tourist-Weather-App/assets/78892816/9705904e-43e4-4d60-904c-2cf1dc40e0ab"
 width="200">
